@@ -28,7 +28,7 @@ These readings are ones that have had a somewhat profound influence on me
 These are generally simpler, shorter, and less far-reaching readings that are useful to read on the side where relevant
 
 - [Immutability in Functional Programming](https://adabeat.com/fp/immutability-in-functional-programming/)
-- 
+- [Why We Moved To Event Driven Microservices](https://elyonsoft.com/blog/why-we-moved-to-event-driven-microservices)
 
 ## AI-Related Readings
 
